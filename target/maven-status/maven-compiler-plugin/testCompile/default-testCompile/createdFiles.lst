@@ -1,0 +1,4 @@
+com\practice\pages\LoginPage.class
+com\practice\stepDefinition\LoginSteps.class
+com\practice\stepDefinition\AmazonSteps.class
+com\practice\pages\DashboardPage.class
